@@ -6,7 +6,7 @@ from instagram_downloader import download_instagram_videos_from_profile
 from instaloader import Instaloader
 
 MAX_VIDEOS = 10       # Maximum videos to download
-PROFILES = ["_motivation_reels", "motivation.reels____"]
+PROFILES = ["motivational_reels_45", "motivmastery"]
 
 def create_instagram_session():
     """
