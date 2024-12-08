@@ -1,0 +1,7 @@
+requests
+aiohttp
+tqdm
+watchdog
+python-dotenv
+instaloader
+asyncio
